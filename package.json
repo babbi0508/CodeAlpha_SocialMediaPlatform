@@ -1,0 +1,18 @@
+{
+  "name": "codealpha-social-media-platform",
+  "version": "2.0.0",
+  "description": "CodeAlpha Full Stack Development Internship - Task 2 Social Media Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "connect-mongo": "^5.1.0",
+    "mongoose": "^8.9.5"
+  }
+}
